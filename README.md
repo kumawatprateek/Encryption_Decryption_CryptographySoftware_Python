@@ -79,8 +79,7 @@ The software was developed using the waterfall model, ensuring each phase from r
 ## Conclusion
 SecureInfo is an effective tool for securing various types of information using ECC. It simplifies the process of encryption and decryption and provides additional features like text hiding and PDF protection. The software’s intuitive interface and robust security measures make it a valuable tool for users concerned about data privacy.
 
-## Software Downlod Link
-https://drive.google.com/file/d/1gyePyBYnU1Tdo2oJn6s5_V5VLOyc3OrW/view?usp=sharing
+## [Software Downlod Link](https://drive.google.com/file/d/1gyePyBYnU1Tdo2oJn6s5_V5VLOyc3OrW/view?usp=sharing)
 
 ## References
 - [Types of Encryption](https://rb.gy/c84h2) - Article on Prey Project
